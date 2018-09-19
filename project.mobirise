@@ -201,7 +201,7 @@
           },
           "title": "operation keys for heroes program",
           "text": "Dilbeck Real Estate’s “Operation Keys for Heroes” program provides home sale or purchase discounts and rebates for eligible U.S. Active Military members and Veterans. We're committed to putting keys in the hands of every hero!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font btn-primary\" data-toolbar=\"-mbrBtnMove\">watch video</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font btn-primary\" data-toolbar=\"-mbrBtnMove\" href=\"https://youtu.be/sPe9qtkAKmU\" target=\"_blank\">watch video</a>",
           "alias": "unicore/components",
           "_tags": [
             "Theme"
@@ -323,7 +323,7 @@
           },
           "title": "operation Care for Heroes",
           "text": "Operation Keys for Heroes is sponsored a care package creation event where agents, clients, and friends gathered to do our part to help be of service to those who have served.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font btn-primary\" data-toolbar=\"-mbrBtnMove\">watch video</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font btn-primary\" data-toolbar=\"-mbrBtnMove\" href=\"https://youtu.be/LcqOYdV6HzI\" target=\"_blank\">watch video</a>",
           "alias": "unicore/components",
           "_tags": [
             "Theme"
