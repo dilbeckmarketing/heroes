@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-09-19_1444",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "unicore",
       "title": "Unicore",
@@ -23,7 +23,7 @@
       ]
     },
     "versionFirst": "4.6.7",
-    "uniqCompNum": 21,
+    "uniqCompNum": 22,
     "versionPublish": "4.6.7"
   },
   "pages": {
@@ -394,7 +394,7 @@
             "fullWidth": true,
             "filter": false,
             "paddingTop": "4",
-            "paddingBottom": 3,
+            "paddingBottom": "2",
             "noGutter": true,
             "showText": false,
             "showBullets": true,
@@ -477,6 +477,118 @@
                 "image": "@PROJECT_PATH@/assets/images/san-thach-care-for-heroes-14-2000x1125.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/san-thach-care-for-heroes-14-2000x1125-800x450.jpg",
                 "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Awesome",
+                "image": "@PROJECT_PATH@/assets/images/san-thach-care-for-heroes-5-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/san-thach-care-for-heroes-5-2000x1125-800x450.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Awesome",
+                "image": "@PROJECT_PATH@/assets/images/san-thach-care-for-heroes-45-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/san-thach-care-for-heroes-45-2000x1125-800x450.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Awesome",
+                "image": "@PROJECT_PATH@/assets/images/san-thach-care-for-heroes-34-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/san-thach-care-for-heroes-34-2000x1125-800x450.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Awesome",
+                "image": "@PROJECT_PATH@/assets/images/san-thach-care-for-heroes-54-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/san-thach-care-for-heroes-54-2000x1125-800x450.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Awesome",
+                "image": "@PROJECT_PATH@/assets/images/san-thach-care-for-heroes-38-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/san-thach-care-for-heroes-38-2000x1125-800x450.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Awesome",
+                "image": "@PROJECT_PATH@/assets/images/san-thach-care-for-heroes-53-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/san-thach-care-for-heroes-53-2000x1125-800x450.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Awesome",
+                "image": "@PROJECT_PATH@/assets/images/san-thach-care-for-heroes-7-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/san-thach-care-for-heroes-7-2000x1125-800x450.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Awesome",
+                "image": "@PROJECT_PATH@/assets/images/san-thach-care-for-heroes-12-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/san-thach-care-for-heroes-12-2000x1125-800x450.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Awesome",
+                "image": "@PROJECT_PATH@/assets/images/san-thach-care-for-heroes-40-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/san-thach-care-for-heroes-40-2000x1125-800x450.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Awesome",
+                "image": "@PROJECT_PATH@/assets/images/san-thach-care-for-heroes-24-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/san-thach-care-for-heroes-24-2000x1125-800x450.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Awesome",
+                "image": "@PROJECT_PATH@/assets/images/san-thach-care-for-heroes-48-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/san-thach-care-for-heroes-48-2000x1125-800x450.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Awesome",
+                "image": "@PROJECT_PATH@/assets/images/san-thach-care-for-heroes-22-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/san-thach-care-for-heroes-22-2000x1125-800x450.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Awesome",
+                "image": "@PROJECT_PATH@/assets/images/san-thach-care-for-heroes-42-2000x1138.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/san-thach-care-for-heroes-42-2000x1138-800x455.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Awesome",
+                "image": "@PROJECT_PATH@/assets/images/san-thach-care-for-heroes-2-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/san-thach-care-for-heroes-2-2000x1125-800x450.jpg",
+                "caption": "Type caption here",
                 "active": true,
                 "alt": ""
               }
@@ -489,6 +601,36 @@
           ],
           "_name": "gallery2",
           "_anchor": "gallery2-d"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "title": "Want to see More?",
+          "text": "View full event album <a href=\"https://www.facebook.com/pg/keysforheroes/photos/?tab=album&amp;album_id=588087491593984\" target=\"_blank\">here</a>.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font cta-btn btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PHOTOS</a>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-l"
         }
       ]
     },
