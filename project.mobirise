@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-09-19_1444",
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "unicore",
       "title": "Unicore",
@@ -314,7 +314,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/LcqOYdV6HzI",
+              "src": "https://youtu.be/_a6ScftI474",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": false,
