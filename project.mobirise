@@ -314,7 +314,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/_a6ScftI474",
+              "src": "https://youtu.be/zJoZR3SZI_A",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": false,
@@ -323,7 +323,7 @@
           },
           "title": "operation care for heroes",
           "text": "Operation Keys for Heroes is sponsored a care package creation event where agents, clients, and friends gathered to do our part to help be of service to those who have served.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font btn-primary\" data-toolbar=\"-mbrBtnMove\" href=\"https://youtu.be/_a6ScftI474\" target=\"_blank\">watch video</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font btn-primary\" data-toolbar=\"-mbrBtnMove\" href=\"https://youtu.be/zJoZR3SZI_A\" target=\"_blank\">watch video</a>",
           "alias": "unicore/components",
           "_tags": [
             "Theme"
