@@ -978,9 +978,10 @@
               "class": "mbr-figure__img img-responsive center-content",
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-09-19-at-4.49.47-pm-1400x1011.png",
-              "link": "",
+              "link": "https://juancarlosargueta.dilbeck.com/profile",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             },
             "video": {
               "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
