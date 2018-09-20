@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-09-19_1444",
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "unicore",
       "title": "Unicore",
@@ -943,7 +943,7 @@
           },
           "title": "MVSC Designation",
           "text": "The Dilbeck’s Military &amp; Veteran\nReal Estate Services Specialist Certification (MVSC)\nprepares our agents to meet the unique demands of the military market. From deployments to VA loans we're arming our Keys for Heroes agents with the insights necessary to best be of service to those who have served.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font btn-primary\" data-toolbar=\"-mbrBtnMove\">WATCH training</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font btn-primary\" data-toolbar=\"-mbrBtnMove\" href=\"https://youtu.be/_Vij-raDPK8\" target=\"_blank\">WATCH training</a>",
           "alias": "unicore/components",
           "_tags": [
             "Theme"
