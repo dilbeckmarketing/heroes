@@ -126,7 +126,7 @@
             "showTitles": true,
             "showText": true,
             "elements": "4",
-            "paddingTop": 2,
+            "paddingTop": "1",
             "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/1.jpg",
@@ -992,7 +992,7 @@
             }
           },
           "title": "Designation Callout",
-          "text": "As well as being featured on our Keys for Heroes agent roster (coming soon), Dilbeck agents now have the opportunity to showcase their expertise and designations direcly from the Dilbeck.com profile pages.",
+          "text": "Dilbeck agents now have the opportunity to showcase their expertise and designations direcly from the Dilbeck.com profile pages, as well as being featured on our Keys for Heroes agent roster (coming soon), ",
           "buttons": "<a data-app-btn=\"true\" href=\"#\" class=\"btn mbr-title-font btn-lg btn-primary\">Download on the app store <i class=\"fa fa-android\"></i></a>",
           "alias": "unicore/components",
           "_tags": [
