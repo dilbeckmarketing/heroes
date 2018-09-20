@@ -908,7 +908,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "showMedia": true,
             "paddingTop": 2,
             "paddingBottom": "1",
