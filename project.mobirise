@@ -23,7 +23,7 @@
       ]
     },
     "versionFirst": "4.6.7",
-    "uniqCompNum": 27,
+    "uniqCompNum": 28,
     "versionPublish": "4.6.7"
   },
   "pages": {
@@ -291,7 +291,7 @@
             "showButtons": true,
             "showMedia": true,
             "bgImageRadio": false,
-            "paddingTop": "1",
+            "paddingTop": 2,
             "paddingBottom": 2,
             "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
@@ -321,15 +321,15 @@
               "loop": false
             }
           },
-          "title": "operation Care for Heroes",
+          "title": "operation care for heroes",
           "text": "Operation Keys for Heroes is sponsored a care package creation event where agents, clients, and friends gathered to do our part to help be of service to those who have served.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font btn-primary\" data-toolbar=\"-mbrBtnMove\" href=\"https://youtu.be/LcqOYdV6HzI\" target=\"_blank\">watch video</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font btn-primary\" data-toolbar=\"-mbrBtnMove\" href=\"https://youtu.be/_a6ScftI474\" target=\"_blank\">watch video</a>",
           "alias": "unicore/components",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-b"
+          "_anchor": "msg-box5-r"
         }
       ]
     },
