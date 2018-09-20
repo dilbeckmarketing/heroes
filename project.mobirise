@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-09-19_1444",
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "unicore",
       "title": "Unicore",
@@ -147,10 +147,10 @@
             "icon3": "fa-envelope",
             "icon4": "fa-check"
           },
-          "title1": "Website",
-          "title2": "Social Media",
-          "title3": "Email Template",
-          "title4": "MVSC Designation",
+          "title1": "<a href=\"https://keys4heroes.dilbeck.com/\" target=\"_blank\">Website</a>",
+          "title2": "<a href=\"https://www.facebook.com/keysforheroes/\" target=\"_blank\">Social Media</a>",
+          "title3": "<a href=\"page3.html\">Email Template</a>",
+          "title4": "<a href=\"page4.html\">MVSC Designation</a>",
           "text1": "Program site features custom lead generating forms, benefits and service highlights, and program features.",
           "text2": "This Facebook Business Page is dedicated to not only our military clients, but the agetns that serve them.",
           "text3": "Available through our CRM, this pre-made email template was available for agents and managers.",
