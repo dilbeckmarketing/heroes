@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-09-19_1444",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "unicore",
       "title": "Unicore",
@@ -823,7 +823,7 @@
               "active": true,
               "class": "mbr-figure__img img-responsive center-content",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/keys-for-heroes-email-mark-dilbeck-1400x1812.jpg",
+              "src": "@PROJECT_PATH@/assets/images/keys-for-heroes-mark-1400x1812.jpg",
               "link": "",
               "alt": "",
               "title": ""
