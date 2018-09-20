@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-09-19_1444",
-    "currentPage": "page1.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "unicore",
       "title": "Unicore",
@@ -23,7 +23,7 @@
       ]
     },
     "versionFirst": "4.6.7",
-    "uniqCompNum": 22,
+    "uniqCompNum": 27,
     "versionPublish": "4.6.7"
   },
   "pages": {
@@ -68,7 +68,7 @@
             "fontName": {},
             "fontColor": "#030303"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box18-3\">Keys for heroes</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box18-9\" aria-expanded=\"false\">Care for heroes</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary mbr-title-font\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box18-3\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box18-9\" aria-expanded=\"false\">Care for heroes</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary mbr-title-font\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -104,7 +104,7 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.5
           },
-          "title": "<span style=\"font-weight: normal;\">Operation: Keys for Heroes</span>",
+          "title": "<span style=\"font-weight: normal;\">Operation Keys for Heroes</span>",
           "text": "Presented by Dilbeck Real Estate",
           "alias": "unicore/components",
           "_tags": [
@@ -125,9 +125,9 @@
           "_params": {
             "showTitles": true,
             "showText": true,
-            "elements": "3",
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "elements": "4",
+            "paddingTop": 2,
+            "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
@@ -145,22 +145,22 @@
             "icon1": "fa-desktop",
             "icon2": "fa-facebook-f",
             "icon3": "fa-envelope",
-            "icon4": "fa-lightbulb-o"
+            "icon4": "fa-check"
           },
-          "title1": "<a href=\"https://keys4heroes.dilbeck.com/\" target=\"_blank\">Website</a>",
-          "title2": "<a href=\"https://www.facebook.com/keysforheroes/\" target=\"_blank\">Social Media</a>",
-          "title3": "<a href=\"page3.html\">Email Template</a>",
-          "title4": "Flashy Look",
+          "title1": "Website",
+          "title2": "Social Media",
+          "title3": "Email Template",
+          "title4": "MVSC Designation",
           "text1": "Program site features custom lead generating forms, benefits and service highlights, and program features.",
           "text2": "This Facebook Business Page is dedicated to not only our military clients, but the agetns that serve them.",
           "text3": "Available through our CRM, this pre-made email template was available for agents and managers.",
-          "text4": "Lorem ipsum dolor sit amet elit convallis neque convallis est non turpis nisl ac justo rutrum sollic itudin urna interdum.",
+          "text4": "Introducing Dilbeck's Military &amp; Veteran Real Estate Services Specialist Certification.",
           "alias": "unicore/components",
           "_tags": [
             "Theme"
           ],
           "_name": "features1",
-          "_anchor": "features1-5"
+          "_anchor": "features1-o"
         },
         {
           "_params": {
@@ -169,8 +169,8 @@
             "showButtons": true,
             "showMedia": true,
             "bgImageRadio": false,
-            "paddingTop": "1",
-            "paddingBottom": 2,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
@@ -226,7 +226,7 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.5
           },
-          "title": "<span style=\"font-weight: normal;\">Operation: Care for Heroes</span>",
+          "title": "<span style=\"font-weight: normal;\">Operation Care for Heroes</span>",
           "text": "Presented by Dilbeck Real Estate",
           "alias": "unicore/components",
           "_tags": [
@@ -336,7 +336,7 @@
     "page1.html": {
       "settings": {
         "title": "Care for Heroes Photos",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -370,7 +370,7 @@
             "fontName": {},
             "fontColor": "#030303"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box18-3\">Keys for heroes</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box18-9\" aria-expanded=\"false\">Care for heroes</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary mbr-title-font\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box18-3\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box18-9\" aria-expanded=\"false\">Care for heroes</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary mbr-title-font\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -671,7 +671,7 @@
             "fontName": {},
             "fontColor": "#030303"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box18-3\">Keys for heroes</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box18-9\" aria-expanded=\"false\">Care for heroes</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary mbr-title-font\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box18-3\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box18-9\" aria-expanded=\"false\">Care for heroes</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary mbr-title-font\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -744,7 +744,7 @@
     "page3.html": {
       "settings": {
         "title": "Keys for Heroes Email",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -778,7 +778,7 @@
             "fontName": {},
             "fontColor": "#030303"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box18-3\">Keys for heroes</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box18-9\" aria-expanded=\"false\">Care for heroes</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary mbr-title-font\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box18-3\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box18-9\" aria-expanded=\"false\">Care for heroes</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary mbr-title-font\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -845,6 +845,160 @@
           ],
           "_name": "msg-box8",
           "_anchor": "msg-box8-k"
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "title": "MVSC Designation",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#030303"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#030303"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#030303"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box18-3\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box18-9\" aria-expanded=\"false\">Care for heroes</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary mbr-title-font\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/keys-for-heroes-logo-morton-a-225x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-m"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showMedia": true,
+            "paddingTop": 2,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/_Vij-raDPK8",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "MVSC Designation",
+          "text": "The Dilbeck’s Military &amp; Veteran\nReal Estate Services Specialist Certification (MVSC)\nprepares our agents to meet the unique demands of the military market. From deployments to VA loans we're arming our Keys for Heroes agents with the insights necessary to best be of service to those who have served.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font btn-primary\" data-toolbar=\"-mbrBtnMove\">WATCH training</a>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-p"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showMedia": true,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img img-responsive center-content",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-09-19-at-4.49.47-pm-1400x1011.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Designation Callout",
+          "text": "As well as being featured on our Keys for Heroes agent roster, Dilbeck agents now have the opportunity to showcase their expertise and designations direcly from the Dilbeck.com profile pages.",
+          "buttons": "<a data-app-btn=\"true\" href=\"#\" class=\"btn mbr-title-font btn-lg btn-primary\">Download on the app store <i class=\"fa fa-android\"></i></a>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-q"
         }
       ]
     }
